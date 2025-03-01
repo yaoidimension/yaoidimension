@@ -1,9 +1,9 @@
 <div id="header" align="center">
   
-![](https://media.discordapp.net/attachments/1163445794444165252/1345535856907386932/fyolai_save_me.png?ex=67c4e76b&is=67c395eb&hm=7741f0051f488be5f603c247ec99cf5620a5239ac7f729f1365747ca07846524&=&format=webp&quality=lossless&width=400&height=269)
+![](https://media.discordapp.net/attachments/1163445794444165252/1345540038699651184/s.png?ex=67c4eb50&is=67c399d0&hm=fb574d959a75fa2a868ac867e7beb5041c7f5f9058e67c995604ca43815f800a&=&format=webp&quality=lossless&width=350&height=350)
 
 <p align="center"
 
 (｡˙ ▿ ˙)   [p](https://pronouns.cc/@vee)rns.cc｡   
 
-    rentry is a wip !
+       rentry is a wip !
