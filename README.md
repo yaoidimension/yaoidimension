@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-![](https://files.catbox.moe/arlt3x.png)
+![]()
 
 <p align="center"
 
